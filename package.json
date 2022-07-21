@@ -29,7 +29,7 @@
     "graphql": "^16.5.0",
     "js-cookie": "^3.0.1",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^6.4.4",
+    "mongoose": "^6.4.6",
     "react": "^17.0.2",
     "react-bootstrap": "^2.4.0",
     "react-bootstrap-table-next": "^4.0.3",
